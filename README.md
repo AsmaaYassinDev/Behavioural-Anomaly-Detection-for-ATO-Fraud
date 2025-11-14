@@ -1,2 +1,1 @@
-# Behavioural-Anomaly-Detection-for-ATO-Fraud
-Early detection of Account Takeover (ATO) fraud using behavioural anomaly detection with unsupervised machine learning models (Isolation Forest &amp; LOF) on the PaySim dataset.
+A research-driven analysis of behavioural fraud modelling using unsupervised learning (Isolation Forest, LOF, Autoencoder) applied to the PaySim dataset. The project evaluates anomaly detection under realistic class imbalance and studies behavioural patterns, structural limitations, and the feasibility of unsupervised fraud detection in synthetic financial systems.
